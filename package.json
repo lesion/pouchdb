@@ -55,7 +55,7 @@
     "spark-md5": "2.0.2",
     "through2": "2.0.1",
     "vuvuzela": "1.0.3",
-    "leveldown": "1.4.6",
+    "leveldown": "Level/leveldown#leveldb-1.19",
     "websql": "0.4.4"
   },
   "devDependencies": {
